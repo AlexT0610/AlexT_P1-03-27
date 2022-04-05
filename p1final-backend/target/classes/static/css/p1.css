@@ -1,0 +1,13 @@
+body {
+  background: rgb(147,90,3);
+  background: linear-gradient(135deg, rgba(147,90,3,1) 0%, rgba(198,152,80,1) 50%, rgba(147,90,3,1) 100%);
+}
+
+input [type=text] {
+width: 100%;
+padding: 12px 20px;
+margin: 8px 0;
+box-sizing: border-box;
+border: 2px solid rgb(0, 0, 0);
+border-radius: 4px;
+}
